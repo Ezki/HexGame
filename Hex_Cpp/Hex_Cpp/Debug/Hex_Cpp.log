@@ -1,0 +1,18 @@
+﻿  yx2int.cc
+  wichPlayerPlay.cc
+  whoIsTheWinner.cc
+  userInput.cc
+  unittest.cpp
+  test_hex.cpp
+  testVoisin.cc
+  sizeGameGridChoice.cc
+  main.cc
+  Lire.cc
+  JouerCoup.cc
+  inputSecurity.cc
+  Initialiser.cc
+  jeu.cpp
+  enregistrementCoupJoue.cc
+  choixJoueur.cc
+  Génération de code en cours...
+  Hex_Cpp.vcxproj -> E:\Hex_Cpp\Debug\Hex_Cpp.exe

@@ -1,0 +1,23 @@
+http://www.codeabbey.com/index/task_list
+
+http://www.krammer.nl/hex/
+https://chessprogramming.wikispaces.com/Hex
+
+
+Un programme pour jouer à HEX
+- idealement la taille du plateau est variable (largeur = hauteur et largeur >1)
+- deux humains
+- verifier les coups proposés par les joueurs humains
+- les afficher
+- vérifier si la partie est finie (pas simple)
+- verifier qui a gagné 
+- Question : comment représenter le plateau de jeu ?
+=> un tableau
+=> éventuellement d'autres informations (le trait : qu va jouer le prochain coup )
+
+- qu'est-ce qu'il y a sur la case X,Y ?
+le programme répond Rouge, Bleu, ou vide 
+
+- est-ce qu'il y un pion Rouge qui touche la case X,Y ?
+- est-ce que la case X,Y est connectée au camp Rouge ?
+
